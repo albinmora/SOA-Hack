@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WriteStorage15</string>
+    <string name="permission_accepted">Acceso Permitido</string>
+    <string name="permission_refused">Acceso Denegado</string>
+</resources>
